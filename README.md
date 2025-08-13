@@ -13,3 +13,8 @@ Here’s a clearer, polished version of your setup instructions:
 2. Next, update the **config.js** file in the **Main-BP** folder using the examples as a guide.
 
 3. Reload the pack, and you’re all set!
+
+# Credits
+
+- LilReload(https://discord.com/users/1373456597300281486)
+- AstoriaNova(https://discord.com/users/1369021372415869050)
