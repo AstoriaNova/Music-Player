@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§sMinecraft Music Player§8[§g1.0.0§8]",
+        "description": "§bPlay,Stop,Pause Music.",
+        "uuid": "41e37251-4340-41ce-8ecc-10436a287e69",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            17,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "3cd7b990-fece-4513-9bbc-ab58d2d25238",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
